@@ -1,0 +1,42 @@
+2024.01.27.20.54.10 Received a GET request from client: GET http://www.shalan.me/ HTTP/1.1
+2024.01.27.22.00.27 Received a GET request from client: GET http://www.shalan.me/ HTTP/1.1
+2024.01.27.22.01.31 Received a GET request from client: GET http://www.shalan.me/ HTTP/1.1
+2024.01.27.22.01.42 Received a GET request from client: GET http://google.com/ HTTP/1.1
+2024.01.27.22.02.35 Received a GET request from client: GET http://www.shalan.me/ HTTP/1.1
+2024.01.27.22.04.46 Received a GET request from client: GET http://www.shalan.me/ HTTP/1.1
+2024.01.27.22.04.46 Received a GET request from client: GET http://www.shalan.me/favicon.ico HTTP/1.1
+2024.01.27.22.04.46 Received a GET request from client: GET http://www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png HTTP/1.1
+2024.01.27.22.04.58 Received a GET request from client: GET http://www.shalan.me/ HTTP/1.1
+2024.01.27.22.06.21 Received a GET request from client: GET http://www.shalan.me/ HTTP/1.1
+2024.01.27.22.06.34 Received a GET request from client: GET http://google.com/ HTTP/1.1
+2024.01.27.22.06.35 Received a GET request from client: GET http://www.google.com/favicon.ico HTTP/1.1
+2024.01.27.22.07.51 Received a GET request from client: GET http://httpforever.com/ HTTP/1.1
+2024.01.27.22.07.51 Received a GET request from client: GET http://www.google.com/images/branding/googlelogo/1x/googlelogo_color_150x54dp.png HTTP/1.1
+2024.01.27.22.08.20 Received a GET request from client: GET http://httpforever.com/ HTTP/1.1
+2024.01.27.22.10.13 Received a GET request from client: GET http://httpforever.com/ HTTP/1.1
+2024.01.27.22.10.14 Received a GET request from client: GET http://httpforever.com/js/init.min.js HTTP/1.1
+2024.01.27.22.11.38 Received a GET request from client: GET http://shalan.me/ HTTP/1.1
+2024.01.27.22.14.01 Received a GET request from client: GET http://neverssl.com/ HTTP/1.1
+2024.01.27.22.15.26 Received a GET request from client: GET http://neverssl.com/ HTTP/1.1
+2024.01.27.22.32.05 Received a GET request from client: GET http://httpforever.com/ HTTP/1.1
+2024.01.27.22.36.44 Received a GET request from client: GET http://majesticyoungastoundingstars.neverssl.com/online HTTP/1.1
+2024.01.28.01.08.08 Received a GET request from client: GET http://majesticyoungastoundingstars.neverssl.com/online/ HTTP/1.1
+2024.01.28.01.27.21 GET http://example.com/ from /127.0.0.1 60536
+2024.01.28.01.27.57 GET http://example.com/ from /127.0.0.1 60541
+2024.01.28.01.30.39 GET http://example.com/ from /127.0.0.1 60594
+2024.01.28.01.31.35 GET http://example.com/ from /127.0.0.1 60655
+2024.01.28.01.31.55 GET http://example.com/ from /127.0.0.1 60663
+2024.01.28.01.32.05 GET http://example.com/ from /127.0.0.1 60681
+2024.01.28.01.33.58 GET http://example.com/ from /127.0.0.1 60686
+2024.01.28.01.35.29 GET http://shalan.me/ from /127.0.0.1 60752
+2024.01.28.01.35.54 GET http://shalan.me/ from /127.0.0.1 60763
+2024.01.28.01.40.57 GET http://shalan.me/ from /127.0.0.1 60891
+2024.01.28.01.51.54 GET http://shalan.me/ from /127.0.0.1 61151
+2024.01.28.01.53.45 GET http://shalan.me/ from /127.0.0.1 61157
+2024.01.28.01.54.32 GET http://shalan.me/ from /127.0.0.1 61165
+2024.01.28.01.55.16 GET http://shalan.me/ from /127.0.0.1 61192
+2024.01.28.01.55.32 GET http://httpforever.com/css/style.min.css from /127.0.0.1 61195
+2024.01.28.01.55.32 GET http://httpforever.com/css/style-wide.min.css from /127.0.0.1 61196
+2024.01.28.01.55.32 GET http://httpforever.com/css/style-normal.min.css from /127.0.0.1 61197
+2024.01.28.01.55.32 GET http://httpforever.com/css/images/header-major-on-dark.svg from /127.0.0.1 61207
+2024.01.28.10.45.11 GET / from /192.168.1.1 48999
